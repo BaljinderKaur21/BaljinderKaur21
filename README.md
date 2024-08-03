@@ -1,39 +1,42 @@
 ### **Skills**
 
-- **SQL:** 
-- **Python:** Data analysis, automation, and scripting (NumPy, Pandas, Matplotlib, Seaborn)
-- **ETL Pipeline:** Designing and implementing efficient data workflows
-- **Power BI:** Creating interactive and insightful dashboards
-- **Tableau:** Data visualization and storytelling
-- **Microsoft Excel:** Advanced data manipulation and analysis
-- **Azure Synapse Analytics:** Cloud-based data warehousing and analytics
-- **Snowflake:** Cloud data platform for data warehousing and analytics
-- **Statistics:** Analyzing and interpreting complex data
+- **SQL:** Mastery in advanced querying and efficient database management.
+- **Python:** Expertise in data analysis, automation, and scripting using libraries such as NumPy, Pandas, Matplotlib, and Seaborn.
+- **ETL Pipeline:** Skilled in designing and implementing effective data workflows for data extraction, transformation, and loading.
+- **Power BI:** Proficient in creating dynamic and interactive dashboards for actionable insights.
+- **Tableau:** Experienced in data visualization and storytelling to communicate complex data effectively.
+- **Microsoft Excel:** Advanced capabilities in data manipulation and in-depth analysis using Excel.
+- **Azure Synapse Analytics:** Knowledgeable in cloud-based data warehousing and analytics solutions.
+- **Snowflake:** Expertise in using Snowflake as a cloud data platform for scalable data warehousing and analytics.
+- **Statistics:** Proficient in analyzing and interpreting complex data to derive meaningful insights.
 
 ---
 
 ### **About Me**
 
-I am an **accomplished** and **results-driven** Data Analyst with over 6 years of experience in transforming complex data into strategic business insights. My background spans across the insurance, retail, and telecommunications sectors, where I have consistently delivered data-driven solutions that significantly boost operational efficiency and business growth.
+**Experienced Data Analyst** with over 6 years of experience transforming complex data into actionable insights. Proficient in SQL, Python, Power BI, and other advanced tools, I specialize in leveraging data to drive strategic decision-making. My background includes working in insurance, retail, and telecommunications, where I’ve applied my expertise in predictive modeling, data visualization, and ETL pipeline design. Passionate about uncovering patterns and trends, I am dedicated to using data-driven strategies to solve business challenges and optimize performance.
 
 ---
 
-### **Professional Highlights**
+### **Key Accomplishments**
 
-- **Industry Expertise:** Extensive experience in insurance, retail, and telecommunications sectors.
-- **Technical Proficiency:** Mastery of tools like SQL, Python, Power BI, Tableau, Excel, Azure Synapse Analytics, and Snowflake.
-- **Business Impact:** Proven track record of leveraging data to drive business improvements and support decision-making processes.
-- **Communication Skills:** Adept at conveying complex technical concepts to non-technical stakeholders, ensuring clarity and alignment.
-- **Collaboration:** Effective communicator and collaborative team player, thriving in dynamic and agile environments.
-- **Continuous Improvement:** Dedicated to ongoing learning and staying ahead in the ever-evolving field of data analysis.
+- **Industry Experience:** Deep expertise across insurance, retail, and telecommunications sectors, applying data insights to diverse challenges.
+- **Technical Skills:** Proficient in advanced tools including SQL, Python, Power BI, Tableau, Excel, Azure Synapse Analytics, and Snowflake.
+- **Impactful Solutions:** Demonstrated success in using data to drive significant business improvements and enhance decision-making.
+- **Effective Communication:** Skilled at simplifying complex technical information for non-technical stakeholders, ensuring clear understanding.
+- **Team Collaboration:** Strong team player with a collaborative approach, excelling in dynamic and agile work environments.
+- **Commitment to Growth:** Focused on continuous learning and innovation to stay at the forefront of the data analysis field.
+- **SAP ERP:** Enterprise resource planning for integrated business processes and data management.
 
+  
 ---
 
 ### **Professional Experience**
 
-- **Insurance:** Worked on data analysis for customer servicing and satisfaction support teams, delivering actionable insights.
-- **Retail:** Analyzed sales data to identify trends and opportunities for growth.
-- **Telecommunications:** Optimized network performance through data analysis and reporting.
+- **Insurance:** Performed comprehensive data analysis to enhance business performance and renewal insights, providing actionable recommendations to customer service and satisfaction teams.
+- **Retail:** Evaluated inventory planning, management, and pricing strategies to uncover trends and drive growth; partnered with the digital business division for optimized results.
+- **Telecommunications:** Analyzed and optimized marketing campaigns for the home TV and internet division, assessing effectiveness and improving campaign strategies through data-driven insights.
+
 
 ---
 
