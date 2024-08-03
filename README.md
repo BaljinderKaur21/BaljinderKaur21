@@ -1,10 +1,11 @@
-# **Baljinder Kaur**
+# **Baljinder Kaur- Data Analyst**
 
-### **Data Analyst**
+[LinkedIn: Baljinder Kaur](https://www.linkedin.com/in/baljinder-kaur21)
 
-[LinkedIn: Baljinder Kaur](www.linkedin.com/in/baljinder-kaur21)
 
----### **Skills**
+---
+
+### **Skills**
 
 - **SQL:** Mastery in advanced querying and efficient database management.
 - **Python:** Expertise in data analysis, automation, and scripting using libraries such as NumPy, Pandas, Matplotlib, and Seaborn.
