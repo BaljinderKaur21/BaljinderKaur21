@@ -51,3 +51,8 @@
 
 I am passionate about data and its potential to transform businesses. My goal is to continue leveraging my skills and experience to deliver insights that drive strategic decisions and operational improvements. I am committed to continuous learning and innovation, ensuring I stay at the forefront of the data analysis field.
 
+---
+
+Feel free to connect with me on LinkedIn to discuss data analysis, exchange ideas, or explore collaboration possibilities!
+
+
