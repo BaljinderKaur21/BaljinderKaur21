@@ -2,7 +2,6 @@
 
 [LinkedIn: Baljinder Kaur](https://www.linkedin.com/in/baljinder-kaur21)
 
-[LinkedIn: Baljinder Kaur](https://www.linkedin.com/in/baljinder-kaur21)
 
 ---
 
